@@ -1,0 +1,25 @@
+tr,td {
+	padding: 30px;
+	background-color: greenyellow;
+}
+
+ul {
+	list-style: none;
+}
+li {
+	background-color: black;
+	font:bold 14pt times ;
+}
+h1 {
+	font: bold 23pt verdana; 
+	background-color: blue;
+}
+p {
+	background-color: yellow; 
+}
+.test-class {
+     background-color: gray; 
+}
+body {
+	background-color: darkgreen;
+}
